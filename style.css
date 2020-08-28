@@ -1,10 +1,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Amatic+SC:wght@700&family=Monoton&display=swap');
 
 
 body {
  
-  background-color: darkred;
+  background-color: lightsalmon;
   font-size:24px ;
   font-family: 'Architects Daughter', cursive;
   margin: 0 auto;
@@ -21,19 +24,43 @@ h1{
   font-size: 48px ;
   font-weight: normal ;
 
+
 }
 
+h2{
+  font-size: 48px ;
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Monoton', cursive;
+
+
+
+
+}
+
+p{
+  font-size: 24px ;
+  font-family: 'Alice', serif;
+
+
+}
+
+
 footer{
-  background-color: black;
-  color: beige;
-  padding: 3em; /* EM square */
+  background-color:burlywood;
+  color:black;
+  padding: 1em; /* EM square */
   margin-top: 2em;
+  Font-size:24px ;
+  font-family: 'Amatic SC', cursive;
+
 }
 
 footer a{
-  color: white;
+  color:red;
   font-weight: bolder;
   text-decoration: underline;
   cursor: crosshair;
+  Font-size:24px ;
+  font-family: 'Amatic SC', cursive;
 }
 
