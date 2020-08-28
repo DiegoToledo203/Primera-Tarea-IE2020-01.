@@ -8,9 +8,9 @@ function setup() {
 
 function draw() {
 
-  for(let i = 0; i < 30; i++){
-  stroke(random(265), random(265), random(265));
-  strokeWeight(random(2, 20));
+  for(let i = 0; i < 20; i++){
+  stroke(random(295), random(205), random(375));
+  strokeWeight(random(2, 10));
   point(random(width), random(height));
   }
 }
